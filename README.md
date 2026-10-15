@@ -1,4 +1,6 @@
 # Calculus-Math-Generator
+This program generates a calculus problems for the user to solve. The problems can range from differentiation, integration, and evaluating stationary points.
+
 
 # Libraries used
 To use this application, the following libraries are required:
